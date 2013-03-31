@@ -1,0 +1,4 @@
+Dubious - these lists are compiled from around the internet.
+
+I think they are all relatively public domain.  All the scripts are MIT
+license.
