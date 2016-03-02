@@ -1,0 +1,103 @@
+agent
+agt
+apprentice
+baker
+banker
+barber
+blacksmith
+boarding-house keeper
+book binder
+book keeper
+bookbinder
+brewer
+broker
+butcher
+cabinet maker
+carpenter
+carriage builder
+carriage maker
+cigar maker
+city
+clergy
+clergyman
+clerk
+clothing cutter
+coachman
+conductor
+cook
+cooper
+currier
+dealer
+dentist
+domestic
+domestic servant
+dress maker
+dressmaker
+engineer
+express driver
+express man
+farmer
+fireman
+fisherman
+foreman
+gardener
+gas fitter
+grocer
+hairdresser
+harness maker
+home
+hostler
+hotel keeper
+house
+huckster
+iron moulder
+jeweler
+journalist
+laborer
+laundress
+laundry
+lawyer
+leisure
+livery
+lodging House Keeper
+machinist
+manufacturer
+marble cutter
+mason
+merchant
+milkman
+milliner
+music teacher
+musician
+painter
+peddler
+physician
+piano maker
+plumber
+plumber
+police
+policeman
+printer
+restaurant keeper
+sailor
+salesman
+saloon keeper
+school
+seamstress
+servant
+shoe maker
+shoemaker
+stable
+stable keeper
+stone cutter
+tailor
+tailoress
+teacher
+teamster
+telegraph
+trader
+upholsterer
+varnisher
+waiter
+wheelwrights
+works
