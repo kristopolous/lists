@@ -4,6 +4,6 @@ fname=$1
 part="${fname##*/}"
 variable="${part%.*}"
 echo '$'$variable' = ['
-cat $fname | sed s'/,/ => /' | awk ' { print "  "$0"," } '
+cat $fname | sed s'/,/ => /' | awk ' { print "  "$0"," } ' | sed 's/\"/'\'/g
 echo '];'
 
